@@ -5,7 +5,7 @@ import Game from './components/Game'
 
 function Home () {
   return (
-    <Game game={game} />
+    <Game />
   )
 }
 
